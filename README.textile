@@ -1,0 +1,15 @@
+<p>First attempt of scraping specific performance data for GP practices via nhs.uk. 
+
+I've only scraped a small number of GP practices to save hammering the nhs.uk server.</p>
+
+<p>Data refers to:
+<uk>
+<li>GP survey data- Opening hours</li>
+<li>GP survey data- Consultation with Doctors</li>
+<li>% Score for Organisation of Practice</li>
+</uk>
+</p>
+<p>
+I might just scrape the lot if there's a good reason too. 
+</p>
+<p>I've collected the nhs.uk ID number for each practice via <a href"https://scraperwiki.com/scrapers/nhs_choices_gp_recommended/">an earlier scraper</a> as well as here.</p>
